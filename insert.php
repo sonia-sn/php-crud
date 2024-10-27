@@ -40,7 +40,7 @@ $result = $con->query($insertQ);
   <input type="text" name="name1" value=""  required><br>
  
   <label >Age:</label><br>
-  <input type="number"  name="age" value=""><br><br>
+  <input type="number"  name="age" value="" required><br><br>
 
   <label >Course:</label><br>
   <input type="text" name="course1" value=""><br>
